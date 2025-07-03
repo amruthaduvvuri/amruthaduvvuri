@@ -17,8 +17,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amruthaduvvuri&theme=tokyonight&show_icons=true" />
-  <br />
   <img src="https://nirzak-streak-stats.vercel.app/?user=amruthaduvvuri&theme=tokyonight" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruthaduvvuri&layout=compact&theme=tokyonight" />
