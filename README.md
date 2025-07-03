@@ -1,7 +1,15 @@
 <h1 align="center">Hola 👋, I'm Amrutha Duvvuri</h1>
 <h3 align="center">Data Science | Data Analysis | Predictive Modeling</h3>
 
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img align="right" width="200" alt="coding" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+
+> 🧠 "Engineer by degree, explorer by mindset, and storyteller through data."  
+
+Welcome to my digital hub! I’m **Lakshmi Amrutha Duvvuri**, a Bioengineering student @ VIT Bhopal, navigating the intersections of **tech, data, and design thinking**.
+
+ 
+🔍 **Portfolio Deep Dive:** [datascienceportfol.io/Amruthaduvvuri1](http://datascienceportfol.io/Amruthaduvvuri1)
+
 
 - 🔭 I’m currently working on **Python**, **Pandas**, **Numpy**, **SQL**, and **Tableau** for end-to-end data analysis and building predictive models.
 
@@ -9,10 +17,28 @@
 
 - 📫 Reach me at **amrutha.duvvuri1@gmail.com**
 
+  ## 🧠 What Makes Me…Me?
+
+- 🧬 Bioengineer with a tech twist  
+- 📈 Data = stories waiting to be told  
+- 🎨 I design dashboards like I design poetry: clean, insightful, and a bit dramatic 
+
+---
+
+## 🤝 Let’s Connect
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/amrutha-duvvuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amruthaduvvuri" height="30" width="40" /></a>
+ 
+  <a href="https://www.linkedin.com/in/amrutha-duvvuri/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+
+  <a href="https://github.com/amruthaduvvuri" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -35,3 +61,7 @@
 </p>
 
 ---
+
+> _"Some chase dreams. I debug mine."_
+
+Thanks for stopping by 💙
