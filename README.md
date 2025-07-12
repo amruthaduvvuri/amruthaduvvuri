@@ -60,6 +60,7 @@ Welcome to my digital hub! I’m **Lakshmi Amrutha Duvvuri**, a Bioengineering s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruthaduvvuri&layout=compact&theme=tokyonight" />
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=amruthaduvvuri&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
 > _"Some chase dreams. I debug mine."_
