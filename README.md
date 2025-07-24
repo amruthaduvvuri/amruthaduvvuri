@@ -12,6 +12,26 @@ Welcome to my digital hub! I’m **Lakshmi Amrutha Duvvuri**, a Bioengineering s
 
 
 - 🔭 I’m currently working on **Python**, **Pandas**, **Numpy**, **SQL**, and **Tableau** for end-to-end data analysis and building predictive models.
+- ### 🧠 About Me
+
+```python
+def amrutha():
+    skills_with_proficiency = {
+        'Python': 'Advanced',
+        'SQL': 'Intermediate',
+        'DSA': 'Intermediate',
+        'HTML & CSS': 'Beginner'
+    }
+    tools = [
+        'numpy', 'pandas', 'sklearn', 'nltk',
+        'matplotlib', 'seaborn', 'keras',
+        'flask', 'streamlit', 'tableau'
+    ]
+    cloud_architecture = ['AWS SageMaker']
+    always_learning = True
+    fueled_by_coffee_and_curiosity = True
+    return '∞'
+```
 
 - 📊 Passionate about extracting insights from data, creating visual stories, and applying machine learning to solve real-world problems.
 
