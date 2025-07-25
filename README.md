@@ -84,7 +84,7 @@ def amrutha():
 ---
 ### 📈 Contribution Graph
 
-[![Amrutha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amruthaduvvuri&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Amrutha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amruthaduvvuri&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 > _"Some chase dreams. I debug mine."_
 
