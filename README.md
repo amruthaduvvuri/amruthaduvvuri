@@ -82,9 +82,6 @@ def amrutha():
 
 ![Profile views](https://komarev.com/ghpvc/?username=amruthaduvvuri&label=Profile%20views&color=0e75b6&style=flat)
 ---
-### 📈 Contribution Graph
-
-[![Amrutha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amruthaduvvuri&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 > _"Some chase dreams. I debug mine."_
 
