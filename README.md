@@ -27,9 +27,8 @@ def amrutha():
         'matplotlib', 'seaborn', 'keras',
         'flask', 'streamlit', 'tableau'
     ]
-    cloud_architecture = ['AWS SageMaker']
     always_learning = True
-    fueled_by_coffee_and_curiosity = True
+    fueled_by_chai_and_curiosity = True
     return '∞'
 ```
 
