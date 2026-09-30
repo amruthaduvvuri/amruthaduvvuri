@@ -5,13 +5,13 @@
 
 > 🧠 "Engineer by degree, explorer by mindset, and storyteller through data."  
 
-Welcome to my digital hub! I’m **Lakshmi Amrutha Duvvuri**, a Bioengineering student @ VIT Bhopal, navigating the intersections of **tech, data, and design thinking**.
+Welcome to my digital hub! I’m **Lakshmi Amrutha Duvvuri**, **Data Scientist @ CARS24**, navigating the intersections of **tech, data, and design thinking**.
 
  
 🔍 **Portfolio Deep Dive:** [datascienceportfol.io/Amruthaduvvuri1](http://datascienceportfol.io/Amruthaduvvuri1)
 
 
-- 🔭 I’m currently working on **Python**, **Pandas**, **Numpy**, **SQL**, and **Tableau** for end-to-end data analysis and building predictive models.
+- 🔭 Data Scientist | Recommendation Systems, Personalization, Ranking & Predictive Modeling | Python & SQL
 - ### 🧠 About Me
 
 ```python
